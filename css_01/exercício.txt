@@ -1,0 +1,12 @@
+Exercício 1 – Inline
+Crie um arquivo HTML com um parágrafo e use CSS inline para deixá-lo em negrito, itálico e com a cor roxa.
+
+Exercício 2 – CSS Interno
+Crie um arquivo HTML com dois parágrafos. Use CSS interno para:
+ - Um parágrafo com fonte Arial e cor azul
+ - Outro com fonte Verdana e cor laranja
+
+ Exercício 3 – CSS Externo
+ - Crie um arquivo index.html e outro chamado estilo.css.
+ - No CSS externo, defina um estilo para body com background-color: lightgray; e para h1 com color: darkblue;.
+ - No HTML, adicione um <h1> e observe o resultado.
